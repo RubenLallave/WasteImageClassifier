@@ -1,0 +1,13 @@
+-c requirements-dev.txt
+tensorflow
+Pillow
+numpy
+pandas
+scikit-learn
+requests
+python-dotenv
+pexels-api-py
+urllib3
+matplotlib
+seaborn
+scikit-image
